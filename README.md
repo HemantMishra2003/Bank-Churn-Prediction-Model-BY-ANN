@@ -22,10 +22,12 @@ model.add(Dense(1, activation="sigmoid"))
 
 # what i got in my nueral network accuracy 
 
-Accuracy=85.9% :  validation accuracy : 85.06 : loss : 0.34 
-Precision=0.7782
-Recall=0.4482
-F1 Score=0.5688
+Accuracy  =            85.9% :
+validation accuracy =  85.06 
+loss                =   0.34 
+Precision           =   0.7782
+Recall              =   0.4482
+F1 Score            =   0.5688
 
 # conlusion 
 
@@ -46,10 +48,10 @@ and this estimator keep rotating until least error..
 
 #  what i got by this  model  :
 
-Model=XGBoost
-Accuracy=86.55%
-Precision=0.7967
-Recall=0.4723
-F1 Score=0.5930
+Model     =   XGBoost
+Accuracy  =   86.55%
+Precision =   0.7967
+Recall    =    0.4723
+F1 Score  =    0.5930
 
-conclusion : 
+
