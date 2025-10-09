@@ -1,10 +1,13 @@
-Model=ANN
+                ##  Model=ANN
+
 Accuracy=85.9
 Precision=0.7782426778242678
 Recall=0.44819277108433736
 F1 Score=0.5688073394495413
 
-Model=XGBoost
+
+
+                    ## Model=XGBoost
 Accuracy=86.55
 Precision=0.7967479674796748
 Recall=0.472289156626506
